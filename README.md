@@ -7,3 +7,7 @@ Features:
 3-Additive noise
 4-Real-time
 5-Resize
+
+
+This is Task 2-DSP 
+Submitted to: Dr.Tamer Basha
