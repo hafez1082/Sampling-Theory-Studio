@@ -9,5 +9,5 @@ Features:
 5-Resize
 
 
-This is Task 2-DSP 
+
 Submitted to: Dr.Tamer Basha
